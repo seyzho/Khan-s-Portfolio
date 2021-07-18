@@ -7,7 +7,6 @@ import Container from '@material-ui/core/Container';
 import EmailIcon from '@material-ui/icons/Email';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import InstagramIcon from '@material-ui/icons/Instagram';
 import { Link as Scroll } from 'react-scroll';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
