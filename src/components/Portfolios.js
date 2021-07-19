@@ -31,7 +31,7 @@ export default function Portfolio() {
   const classes = useStyles();
   return (
     <section id="portfolios">
-      <h1 className={classes.title}>Work Places</h1>
+      <h1 className={classes.title}>my stuffs</h1>
       <div className={classes.root} style={{ margin: "1vw" }}>
         <Grid container spacing={1}>
           <Grid item xs={12} sm={4}>
