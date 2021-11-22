@@ -68,7 +68,7 @@ export default function About() {
           <Grid container spacing={1}>
             <Grid item>
               <ButtonBase className={classes.image}>
-                <img className={classes.img} alt="pain" src="./images/about.jpeg" />
+                <img className={classes.img} alt="headshot" src="./images/about.jpeg" />
               </ButtonBase>
             </Grid>
             <Grid item xs={6} sm container>

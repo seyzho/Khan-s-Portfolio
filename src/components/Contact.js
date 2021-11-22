@@ -100,7 +100,7 @@ export default function Contact() {
                       <HomeIcon className={classes.goHome} />
                     </IconButton>
                   </Scroll>
-                  <IconButton aria-label="resume" onClick={() => window.open('https://www.omfgdogs.com/')}>
+                  <IconButton aria-label="resume" onClick={() => window.open('https://docs.google.com/document/d/1GEOt87QinHmEpKDB3BRKoJ9d61Ftaxq5zbXpg-YWBDY/export?format=pdf')}>
                     <GetAppIcon className={classes.goHome} />
                   </IconButton>
                 </Grid>
